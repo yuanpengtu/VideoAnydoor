@@ -39,7 +39,7 @@ This repository is the official implementation of paper "VideoAnydoor : High-fid
 ## &#x1F4CC; Updates
 * [2025.1.1] 🔥 Our [paper](https://arxiv.org/pdf/2506.09995) is in public on arxiv.
 * [2025.3.15] 🔥 Our [paper](https://arxiv.org/pdf/2506.09995) is accepted by SIGGRAPH 2025.
-* [2025.6.12] 🔥 We are now organizing the source code and will release it recently. Sorry for the delay.
+* [2025.12.5] 🔥 We are now organizing the source code and will release it recently. Sorry for the delay.
 
 
 
